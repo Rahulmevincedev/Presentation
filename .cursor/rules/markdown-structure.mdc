@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Markdown File Structure and Purpose Rule
+
+- Each markdown (.md) file should focus on a single topic or section relevant to LLMs and AI productivity (e.g., introduction, types, strengths, weaknesses, best practices, summary).
+- Files must be modular and logically ordered to support educational, documentation, or presentation use.
+- Use clear headings, subheadings, and bullet points to organize information.
+- Content should be concise, accessible, and suitable for a mixed technical and non-technical audience.
+- Include practical examples, tips, or references where appropriate, but keep each file focused on its main topic.
+- Do not include actual content from the markdown files in this rule; this rule is for structure and style guidance only.
+- Reference files like [01_llm_intro.md](mdc:01_llm_intro.md), [02_llm_types.md](mdc:02_llm_types.md), etc., as examples of this modular approach.
+
